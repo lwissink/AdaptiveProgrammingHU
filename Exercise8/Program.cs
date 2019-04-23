@@ -15,6 +15,7 @@ namespace Exercise8
             {
                 string sterretje = new String('*', num);
                 Console.WriteLine(sterretje);
+            }
         }
     }
 }
