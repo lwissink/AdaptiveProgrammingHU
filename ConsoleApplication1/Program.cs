@@ -6,16 +6,42 @@ namespace ConsoleApplication1
     {
         public static void Main(string[] args)
         {
-            String word = "sterk";
-            String part = "ste";
-            String notpart = "str";
+            string word = "sterk";
+            string part = "ste";
+
+            int waar = 0;
             
             Console.WriteLine(word.Contains(part));
-            Console.WriteLine(word.Contains(notpart));
+
+            int x = part.Length;
+            Console.WriteLine(x);
             
             
-            
-            
+            for (int i = 0; i < x; i++)
+            {
+                var wordletter = word[i];
+                var wordpart = part[i];
+                
+                Console.WriteLine(wordletter+" "+wordpart);
+                
+                if (wordletter == wordpart)
+                {
+                    waar = 1;
+                }
+                else
+                {
+                    waar = 0;
+                }
+            }
+
+            if(waar == 1)
+            {
+                Console.WriteLine("het is een prefix");
+            }
+            else
+            {
+                Console.WriteLine("het is niet een prefix");
+            }  
         }
     }
 }

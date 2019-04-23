@@ -6,7 +6,10 @@ namespace Exercise3
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            for (int i = 0; i < 2; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }

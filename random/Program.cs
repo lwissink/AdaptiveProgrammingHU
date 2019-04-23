@@ -6,7 +6,7 @@ namespace random
     {
         public static void Main(string[] args)
         {
-            TestClass1 student1 = new TestClass1();
+            var student1 = new TestClass1();
             Console.WriteLine(student1);
         }
     }
