@@ -3,8 +3,3 @@ D:\Csharp\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Csharp\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 D:\Csharp\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Csharp\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-D:\AdaptiveProgramming\AdaptiveProgrammingHU\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\AdaptiveProgramming\AdaptiveProgrammingHU\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\AdaptiveProgramming\AdaptiveProgrammingHU\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\AdaptiveProgramming\AdaptiveProgrammingHU\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\AdaptiveProgramming\AdaptiveProgrammingHU\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
