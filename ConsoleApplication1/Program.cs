@@ -8,7 +8,7 @@ namespace ConsoleApplication1
         {
             String word = "sterk";
             String part = "ste";
-            String notpart = "str";
+            String notpart = "strl";
             
             Console.WriteLine(word.Contains(part));
             Console.WriteLine(word.Contains(notpart));
