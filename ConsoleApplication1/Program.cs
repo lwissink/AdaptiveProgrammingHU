@@ -42,6 +42,7 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine("het is niet een prefix");
             }  
+            
         }
     }
 }
