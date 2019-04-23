@@ -1,0 +1,5 @@
+D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise7\bin\Debug\Exercise7.exe
+D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise7\bin\Debug\Exercise7.pdb
+D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise7\obj\Debug\Exercise7.csprojResolveAssemblyReference.cache
+D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise7\obj\Debug\Exercise7.exe
+D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise7\obj\Debug\Exercise7.pdb
