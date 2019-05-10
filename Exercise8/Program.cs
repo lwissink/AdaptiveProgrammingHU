@@ -12,7 +12,7 @@ namespace Exercise8
             int num = int.Parse(inputNum);
             Console.WriteLine("You entered '{0}'", num);
             
-            const string format = "    {0,5}";
+            const string format = "          {0,5}";
             
             
             for (int i = 0; i < num+1; i++)

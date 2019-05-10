@@ -3,3 +3,9 @@ D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise4\bin\Debug\Exercise4.pdb
 D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
 D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise4\obj\Debug\Exercise4.exe
 D:\AdaptiveProgramming\AdaptiveProgrammingHU\Exercise4\obj\Debug\Exercise4.pdb
+D:\Csharp\Solution1\Exercise4\bin\Debug\Exercise4.exe
+D:\Csharp\Solution1\Exercise4\bin\Debug\Exercise4.pdb
+D:\Csharp\Solution1\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+D:\Csharp\Solution1\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+D:\Csharp\Solution1\Exercise4\obj\Debug\Exercise4.exe
+D:\Csharp\Solution1\Exercise4\obj\Debug\Exercise4.pdb
