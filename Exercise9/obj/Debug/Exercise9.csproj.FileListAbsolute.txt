@@ -1,0 +1,6 @@
+D:\Csharp\Solution1\Exercise9\bin\Debug\Exercise9.exe
+D:\Csharp\Solution1\Exercise9\bin\Debug\Exercise9.pdb
+D:\Csharp\Solution1\Exercise9\obj\Debug\Exercise9.csprojAssemblyReference.cache
+D:\Csharp\Solution1\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
+D:\Csharp\Solution1\Exercise9\obj\Debug\Exercise9.exe
+D:\Csharp\Solution1\Exercise9\obj\Debug\Exercise9.pdb
